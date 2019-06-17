@@ -61,7 +61,7 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X991.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X992.jpg?raw=true)
  
- **HUANANZHI X99-8M:** Плата с неизвестным чипсетом и DDR4 памятью. Безсмысленный огрызок с 2 каналами, не нужен. 
+ **HUANANZHI X99-8M:** Плата с неизвестным чипсетом и DDR4 памятью. *Имхо: Безсмысленный огрызок с 2 каналами, не нужен.*
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M2.jpg?raw=true)
  
@@ -137,6 +137,14 @@ ES0 и QS-OEM-RETAIL. Брать особого смысла нет. Если т
 ES2 и прочие не советую к покупке ибо они не особо актуальны. Да и если вы будете менять цпу то инженерник можно будет пустить только на брелок. Да и турбобуст на них нельзя выставить на все ядра.
 
 Оптимально я считаю нормальным вариантом покупку многоядерника  M1/C1/R2 - QS/OEM-RETAIL степпингов с 12-18 ядрами и разблокировка турбобуста на все ядра. Примерно с моделей E5 2680 v3 и выше. Либо же E5 1650 v3 и другие цпу E5 16** v3  серии. Для охлада стоит смотреть мостроподобные башни типо Thermalright Macho Rev.A/B, Noctua NH-D15/D14, be quiet! DARK ROCK PRO 4 и подобные. Ну либо же водянка если вы сантехник. Да и не забудте про охлаждение VRM.
+
+### Примеры сборок от анонов с треда:
+
+1 Вариант:
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Sborka_V1.jpg?raw=true)
+
+2 Вариант:
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Sborka_V2.jpg?raw=true)
 
 # Некоторые фишки которые сверху не влезут:
 
