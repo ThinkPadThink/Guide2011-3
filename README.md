@@ -153,7 +153,9 @@ SUPERMICRO не исключение. [Но это можно обойти](http
 Но пока будут ссылки: 
 https://greentechreviews.ru/2017/03/14/instrukciya-po-uvelicheniyu-taktovoj-chastoty-v-boost-dlya-processorov-intel-xeon-e5-v3/
 https://goo.gl/CHSBKV
+
 Полный гайд со всем софтом можно найти в архиве по ссылке из этого [поста](https://forums.anandtech.com/threads/what-controls-turbo-core-in-xeons.2496647/page-10#post-38755809). Так же, для того, чтобы обойти ошибку "Error in Replacing File" при замене микрокодов биоса с помощью UBU - необходимо ознакомиться с этим [постом](http://www.win-raid.com/t18f16-Guide-Manual-AMI-UEFI-BIOS-Modding-4.html#msg21755)
+
 Можете так же обращаться в VK в группу [TheSellHard](https://vk.com/thesellhard), там народ может помочь с биосом, либо сразу найдите биос под свою мамку в [этой теме](https://vk.com/topic-70826500_34866008)
 
 # Ссылки: 
