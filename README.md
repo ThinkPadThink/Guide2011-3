@@ -55,7 +55,7 @@
 Полноценной информации нет но как смогу накину тут:
  
  **HUANANZHI X99-AD3:** Плата с чипсетом X99/C612 и **ВНИМАНИЕ с DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3. А именно: E5-2678v3, E5-2629v3, E5-2649v3, E5-2669v3, E5-2686v3, E5-2696v3**.
- ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-AD3.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
  
  **Running X99 aka Vulcan X99 v1.2:** Плата с чипсетом X99/C612 и DDR4 памятью. Есть несколько вариантов, с радиатором и без. И разной разцветки. 
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X991.jpg?raw=true)
