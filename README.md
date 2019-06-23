@@ -67,8 +67,8 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M2.jpg?raw=true)
  
- **PlexHD X99:** Плата с неизвестным чипсетом, вероятнее всего X99/C612. 
- ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PLEXHD-X99.jpg?raw=true)
+ **PlexHD X99 aka ZX_99EV3_V1.21:** Плата с неизвестным чипсетом, вероятнее всего X99/C612. Звук: Realtek ALC662, Сеть REALTEK 8106E/8111. [На Али](https://ru.aliexpress.com/item/33042788981.html)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHdnoname.jpg?raw=true)
  
  **HUANANZHI X99 NONAME:** Пока ничего не известно. Просто мыльная плата.
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/noname_mylo.jpg?raw=true)
