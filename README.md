@@ -106,7 +106,7 @@ ES0 и QS-OEM-RETAIL. Брать особого смысла нет. Если т
 
 Ниже находятся таблица со списком существующих финальных Xeon E5 V3.
 
-![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Haswell-EP.png?raw=true)
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Haswelll-EP.png?raw=true)
 
 И таблица со списком существующих финальных Xeon E5 V4. 
 
@@ -155,7 +155,7 @@ ES2 и прочие не советую к покупке ибо они не о�
 ## Как выглядят Xeon Haswell-E/EP и Broadwell-E/EP
 
 Haswell-E/EP:
-![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/2696v3.png?raw=true)
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/intel-xeon-e5-2699-v3.jpg?raw=true)
 Broadwell-E/EP:
 ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/2699v4.jpg?raw=true)
 
