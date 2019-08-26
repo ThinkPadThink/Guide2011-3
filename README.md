@@ -46,14 +46,16 @@
 
 Полноценной информации нет но как смогу накину тут:
  
- **HUANANZHI X99-AD3:** Плата с чипсетом X99/C612 и **ВНИМАНИЕ с DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3. А именно: E5-2678v3, E5-2629v3, E5-2649v3, E5-2669v3, E5-2686v3**.
+ **HUANANZHI X99-AD3:** Плата с чипсетом X99/C612 и **ВНИМАНИЕ с DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3. А именно: E5-2678v3, E5-2629v3, E5-2649v3, E5-2669v3, E5-2686v3**. На деле оказывается не только: [оверклокерсы](https://forums.overclockers.ru/viewtopic.php?p=16140360#p16140360) Цитата: *Дошли руки собрал в корпус, установили винду на обычный сата ссд, все стало отлично. NVMe так и не смог увидеть ни в биосе не в винде. Сфоткал скрин аиды, показывает проц 2658, хотя покупал 2673,они похожи очень, может Аида путает хз.*
+ 
+ *Примечание:* Если вы просматриваете эту страницу с браузера на основе Google Chrome: Chromium, Yandex, Opera, Vivaldi, MS Edge 2019, etc. то фото материнкой платы вы не увидите. Но вы его можете просмотреть [тут](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
  
- **Running X99 aka Vulcan X99 v1.2:** Плата с чипсетом X99/C612 и DDR4 памятью. Есть несколько вариантов, с радиатором и без. И разной разцветки. 
+ **Running X99 aka Vulcan X99 v1.2:** Плата с чипсетом X99/C612 и DDR4 памятью. Есть несколько вариантов, с радиатором и без. И разной разцветки. **По некоторым данных плата не работает с Xeon E5 V4** но это не точно.
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X991.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X992.jpg?raw=true)
  
- **HUANANZHI X99-8M:** Плата с неизвестным чипсетом и DDR4 памятью. *Имхо: Безсмысленный огрызок с 2 каналами, не нужен.*
+ **HUANANZHI X99-8M:** Плата с неизвестным чипсетом и DDR4 памятью. Существуют разные варианты разцветки. *Имхо: Безсмысленный огрызок с 2 каналами, не нужен.*
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M2.jpg?raw=true)
  
@@ -61,10 +63,13 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHdnoname.jpg?raw=true)
  
  **NONAME aka Jingsha X99 aka X99 v10Y:** Новая плата с X99/C612 чипсетом и **ВНИМАНИЕ DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3.** Звук: ALC898, Сеть Realtek. [На Али](https://ru.aliexpress.com/item/4000042837534.html)
- По сравнению с HUANANZHI X99-AD3 имеет большее количество слотов памяти и меньшее кол-во Sata 3 портов для накопителей. 
-
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Jingsha_x99_1.jpg_.png?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Jingsha_x99_2.png?raw=true)
+ 
+ **HUANANZHI X99-TF aka G368J ver 1.1** Новая плата с чипсетом C612/X99. 4 слота DDR3 и 4 слота DDR4. Вместе память работать не будет. Плата достаточно добротна по дизайну и наполненности. Подробное описание ниже. На 27.08.2019 на али ещё нет. 
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-tf.jpg?raw=true)
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668531847240.jpg?raw=true)
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668529667151.jpg?raw=true)
  
  **HUANANZHI X99 NONAME:** Пока ничего не известно. Просто мыльная плата.
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/noname_mylo.jpg?raw=true)
@@ -74,6 +79,10 @@
  ## Платы от брендовых серверов/рабочих станций:
  
  Это HP/HPE, Dell, Lenovo/IBM, Cisco, Fujitsu и подобные. У этих плат 100% проприетраные фронт панели, подключение вентиляторов, блока питания. Возможен белый лист на оперативную память и накопители, велика вероятность проприетарного форм-фактора плат и крепления охлаждения цпу.
+ 
+ **Hewlett Packard Enterprise/HP/HPE**
+ Отдельно отмечу пердолинг с платой HP без прочего обвеса, возможно для кого-то это пригодится [Украинский овеклокерс](https://forum.overclockers.ua/viewtopic.php?f=3&t=218885)
+ 
  
 # Оперативная память
  
