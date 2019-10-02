@@ -48,9 +48,9 @@
 
 Полноценной информации нет но как смогу накину тут:
  
- **HUANANZHI X99-AD3:** Плата с чипсетом X99/C612 и **ВНИМАНИЕ с DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3. А именно: E5-2678v3, E5-2629v3, E5-2649v3, E5-2669v3, E5-2686v3**. На деле оказывается не только: [Оверклокерсы](https://forums.overclockers.ru/viewtopic.php?p=16140360#p16140360) Цитата: *Дошли руки собрал в корпус, установили винду на обычный сата ссд, все стало отлично. NVMe так и не смог увидеть ни в биосе не в винде. Сфоткал скрин аиды, показывает проц 2658, хотя покупал 2673,они похожи очень, может Аида путает хз.* 
+ **HUANANZHI X99-AD3:** Плата с чипсетом X99/C612 и **ВНИМАНИЕ с DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3. А именно: E5-2678v3, E5-2629v3, E5-2649v3, E5-2669v3, E5-2686v3, E5-2696v3**. На деле оказывается не только: [Оверклокерсы](https://forums.overclockers.ru/viewtopic.php?p=16140360#p16140360) Цитата: *Дошли руки собрал в корпус, установили винду на обычный сата ссд, все стало отлично. NVMe так и не смог увидеть ни в биосе не в винде. Сфоткал скрин аиды, показывает проц 2658, хотя покупал 2673,они похожи очень, может Аида путает хз.* 
  
- Есть информация что корейцы смогли завести на ней турбобуст: [Оверклокерс](https://forums.overclockers.ru/viewtopic.php?p=16321683&sid=b13f1d8102b3f7d8d8cc82d187eafe21#p16321683).
+ Есть информация что корейцы смогли завести на ней турбобуст: [Оверклокерс](https://forums.overclockers.ru/viewtopic.php?p=16321683&sid=b13f1d8102b3f7d8d8cc82d187eafe21#p16321683). Да, завезли [Форум Anandtech](https://forums.anandtech.com/threads/what-controls-turbo-core-in-xeons.2496647/page-111#post-39871817) Модбиос и оригинальный [тут](ссылка.ссылка)
  
  *Примечание:* По неизвестным причинам фото материнкой платы блокируется блокировщиками рекламы. Фото можно просмотреть [тут](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
@@ -59,18 +59,18 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X991.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X992.jpg?raw=true)
  
- **HUANANZHI X99-8M:** Плата с неизвестным чипсетом и DDR4 памятью. Существуют разные варианты разцветки. *Имхо: Безсмысленный огрызок с 2 каналами, не нужен.*
+ **HUANANZHI X99-8M:** Плата с чипсетом X99 и DDR4 памятью. Существуют разные варианты разцветки. *Имхо: Безсмысленный огрызок с 2 каналами, не нужен.* Обзор от YouTube канала [Купи дёшево](https://www.youtube.com/watch?v=EbipSmxaeB4)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M2.jpg?raw=true)
  
- **PlexHD X99 aka ZX_99EV3_V1.21:** Плата с X99/C612 чипсетом. Звук: Realtek ALC662, Сеть REALTEK 8106E/8111. **ВНИМАНИЕ:** на стоковом UEFI/BIOS разгона нет, возможно позднее допилят его как было с 2011 сокетом в своё время.[На Али](https://ru.aliexpress.com/item/33042788981.html)
+ **PlexHD X99 aka ZX_99EV3_V1.21:** Плата с X99/C612 чипсетом. Звук: Realtek ALC662, Сеть REALTEK 8106E/8111. **ВНИМАНИЕ:** на стоковом UEFI/BIOS разгона нет, возможно позднее допилят его как было с 2011 сокетом в своё время.
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHdnoname.jpg?raw=true)
  
- **NONAME aka Jingsha X99 aka X99 v10Y:** Новая плата с X99/C612 чипсетом и **ВНИМАНИЕ DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3.** Звук: ALC898, Сеть Realtek. [На Али](https://ru.aliexpress.com/item/4000042837534.html)
+ **NONAME aka Jingsha X99 aka X99 v10Y:** Новая плата с X99/C612 чипсетом и **ВНИМАНИЕ DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3.** Звук: ALC898, Сеть Realtek. 
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Jingsha_x99_1.jpg_.png?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Jingsha_x99_2.png?raw=true)
  
- **HUANANZHI X99-TF aka G368J ver 1.1** Новая плата с чипсетом C612/X99. 4 слота DDR3 и 4 слота DDR4. Вместе память работать не будет. Плата достаточно добротна по дизайну и наполненности. Подробное описание ниже. На 27.08.2019 на али ещё нет. 
+ **HUANANZHI X99-TF aka G368J ver 1.1** Новая плата с чипсетом C612/X99. 4 слота DDR3 и 4 слота DDR4. Вместе память работать не будет. Плата достаточно добротна по дизайну и наполненности. Подробное описание ниже. Обзор от YouTube канала [Ремонтяша Лайв](https://www.youtube.com/watch?v=BERU3L_rOLo)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-tf.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668531847240.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668529667151.jpg?raw=true)
