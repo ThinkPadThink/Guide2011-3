@@ -50,7 +50,7 @@
  
  **HUANANZHI X99-AD3:** Плата с чипсетом X99/C612 и **ВНИМАНИЕ с DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3. А именно: E5-2678v3, E5-2629v3, E5-2649v3, E5-2669v3, E5-2686v3, E5-2696v3**. На деле оказывается не только: [Оверклокерсы](https://forums.overclockers.ru/viewtopic.php?p=16140360#p16140360) Цитата: *Дошли руки собрал в корпус, установили винду на обычный сата ссд, все стало отлично. NVMe так и не смог увидеть ни в биосе не в винде. Сфоткал скрин аиды, показывает проц 2658, хотя покупал 2673,они похожи очень, может Аида путает хз.* 
  
- Есть информация что корейцы смогли завести на ней турбобуст: [Оверклокерс](https://forums.overclockers.ru/viewtopic.php?p=16321683&sid=b13f1d8102b3f7d8d8cc82d187eafe21#p16321683). Да, завезли [Форум Anandtech](https://forums.anandtech.com/threads/what-controls-turbo-core-in-xeons.2496647/page-111#post-39871817) Модбиос и оригинальный [тут](ссылка.ссылка)
+ Есть информация что корейцы смогли завести на ней турбобуст: [Оверклокерс](https://forums.overclockers.ru/viewtopic.php?p=16321683&sid=b13f1d8102b3f7d8d8cc82d187eafe21#p16321683). Да, завезли [Форум Anandtech](https://forums.anandtech.com/threads/what-controls-turbo-core-in-xeons.2496647/page-111#post-39871817) Модбиос и оригинальный [тут](https://github.com/ThinkPadThink/Guide2011-3/blob/master/HuananX99-AD3_BIOS.zip)
  
  *Примечание:* По неизвестным причинам фото материнкой платы блокируется блокировщиками рекламы. Фото можно просмотреть [тут](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
