@@ -261,11 +261,11 @@ SuperMicro не исключение. [Но это можно обойти](http
 Можете так же обращаться в VK в группу [TheSellHard](https://vk.com/thesellhard), там народ может помочь с биосом, либо сразу найдите биос под свою мамку в [этой теме](https://vk.com/topic-70826500_34866008)
 
 # Ссылки: 
-- [Группа TheSellHard в VK](https://vk.com/thesellhard);
 - [ARK Intel - информация по Финальным ЦПУ Интела](https://ark.intel.com/content/www/ru/ru/ark.html);
 - [CPU World - огромная база данных по ЦПУ, есть и информация по инженерным образцам и ОЕМ ](http://www.cpu-world.com);
 - [Гайд о покупку железа и не только на Американском Ebay](https://github.com/pepe-i-shim/thinkpad-from-ebay);
 - [SUPERMICRO IPMI CODE](https://dotnetfiddle.net/87E5Xm);
+- [Группа TheSellHard в VK](https://vk.com/thesellhard);
 - [Тема по китайским материнкам на Overclockers.ru](https://forums.overclockers.ru/viewtopic.php?f=1&t=602922);
 - [Тема по брендомым материнкам на Overclockers.ru](https://forums.overclockers.ru/viewtopic.php?f=1&t=518315);
 - [Тема по материнке ASUS ROG X99 STRIX на Overclockers.ru](https://forums.overclockers.ru/viewtopic.php?f=1&t=577523); - много инфы для владельцев других X99 плат от ASUS.
