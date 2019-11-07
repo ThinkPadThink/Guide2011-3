@@ -302,4 +302,5 @@ SuperMicro не исключение. [Но это можно обойти](http
 - [Тема по брендомым материнкам на Overclockers.ru](https://forums.overclockers.ru/viewtopic.php?f=1&t=518315);
 - [Тема по материнке ASUS ROG X99 STRIX на Overclockers.ru](https://forums.overclockers.ru/viewtopic.php?f=1&t=577523); - много инфы для владельцев других X99 плат от ASUS.
 - [Тема по материнке ASUS ROG X99 Rampage V Extreme/Edition 10 на Overclockers.ru](https://forums.overclockers.ru/viewtopic.php?f=1&t=519082);
+- [Оффициальный сайт Huananzhi](http://www.huananzhi.com) - возможна долгая загрузка сайта из-за firewall;
 - [Сторонний ресурс где тоже есть информация по зионам](https://xeon-e5450.ru).
