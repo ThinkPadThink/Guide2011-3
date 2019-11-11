@@ -83,13 +83,21 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M2.jpg?raw=true)
  
- **PlexHD X99 aka ZX_99EV3_V1.21:** 
+ **PlexHD X99 DDR4 aka ZX_99EV3_V1.21:** 
  
  Плата с X99/C612 чипсетом. Звук: Realtek ALC662, Сеть REALTEK 8106E/8111. 
  **ВНИМАНИЕ:** на стоковом UEFI/BIOS разгона нет, возможно позднее допилят его как было с 2011 сокетом в своё время. Выпускаются в нескольких вариантах расскраски PCB.
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHdnoname.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHD_X99_up1.jpg?raw=true)
+ 
+ 
+ **PlexHD X99 DDR3:**
+ 
+ Плата аналогична той же плате что и выше только с памятью DDR3.
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15732751272620.jpg?raw=true)
+
  
  **NONAME aka Jingsha X99 aka X99 v10Y:** 
  
