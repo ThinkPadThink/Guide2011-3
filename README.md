@@ -54,14 +54,13 @@
 **SUPERMICRO:** Очень хорошие серверные платы, но для анлока турбобуста не рекомендуются из-за скудного питальника плат и его охлада. Под сборку сервера отлично подходят из-за того что не имеют проблем с инженерными образцами(ES)  v3/v4. 
 
 ## Китайплаты:
-
-Полноценной информации нет но как смогу накину тут:
  
  **HUANANZHI X99-AD3:**
  
  Плата с чипсетом X99/C612 и **ВНИМАНИЕ с DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3. А именно: E5-2678v3, E5-2629v3, E5-2649v3, E5-2669v3, E5-2686v3, E5-2696v3**. На деле оказывается не только: [Оверклокерсы](https://forums.overclockers.ru/viewtopic.php?p=16140360#p16140360) Цитата: *Дошли руки собрал в корпус, установили винду на обычный сата ссд, все стало отлично. NVMe так и не смог увидеть ни в биосе не в винде. Сфоткал скрин аиды, показывает проц 2658, хотя покупал 2673, они похожи очень, может Аида путает хз.* 
-Поддерживает разблокировку турбобуста на все ядра цпу, пруф: [Форум Anandtech](https://forums.anandtech.com/threads/what-controls-turbo-core-in-xeons.2496647/page-111#post-39871817) Модбиос и оригинальный [тут](https://github.com/ThinkPadThink/Guide2011-3/blob/master/HuananX99-AD3_BIOS.zip) 
-Стали появляться версии с кожухом во весь левый край платы, с подсветкой.
+Осенью 2019 стали появляться версии платы с кожухом во весь левый край платы, с подсветкой.
+* На Модбиосе работает разблокировка турбобуста на все ядра, модбиос и оригинальный [тут](https://github.com/ThinkPadThink/Guide2011-3/blob/master/HuananX99-AD3_BIOS.zip)
+
  
  *Примечание:* По неизвестным причинам фото материнкой платы блокируется блокировщиками рекламы. Фото можно просмотреть [тут](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
@@ -108,7 +107,7 @@
  
  **HUANANZHI X99-TF aka G368J ver 1.1** 
  Новая плата с чипсетом C612/X99. 4 слота DDR3 и 4 слота DDR4. Вместе память работать не будет. Плата достаточно добротна по дизайну и наполненности. Подробное описание ниже. Обзор от YouTube канала [Ремонтяш Лайв](https://www.youtube.com/watch?v=BERU3L_rOLo)
- 
+ * [UEFI-BIOS](https://github.com/ThinkPadThink/Guide2011-3/raw/master/HuananzhiX99-TF_BIOS.7z) в некоторых случаях разблокировка TurboBoost на всех ядрах работает и на стоковом UEFI-BIOS
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-tf.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668531847240.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668529667151.jpg?raw=true)
@@ -299,6 +298,8 @@ SuperMicro не исключение. [Но это можно обойти](http
 Полный гайд со всем софтом можно найти в архиве по ссылке из этого [поста](https://forums.anandtech.com/threads/what-controls-turbo-core-in-xeons.2496647/page-10#post-38755809). Так же, для того, чтобы обойти ошибку "Error in Replacing File" при замене микрокодов биоса с помощью UBU - необходимо ознакомиться с этим [постом](http://www.win-raid.com/t18f16-Guide-Manual-AMI-UEFI-BIOS-Modding-4.html#msg21755)
 
 Можете так же обращаться в VK в группу [TheSellHard](https://vk.com/thesellhard), там народ может помочь с биосом, либо сразу найдите биос под свою мамку в [этой теме](https://vk.com/topic-70826500_34866008)
+
+
 
 # Ссылки: 
 - [ARK Intel - информация по Финальным ЦПУ Интела](https://ark.intel.com/content/www/ru/ru/ark.html);
