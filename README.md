@@ -85,7 +85,7 @@
  **PlexHD X99 DDR4 aka ZX_99EV3_V1.21:** 
  
  Плата с X99/C612 чипсетом. Звук: Realtek ALC662, Сеть REALTEK 8106E/8111. 
- **ВНИМАНИЕ:** на стоковом UEFI/BIOS разгона нет, возможно позднее допилят его как было с 2011 сокетом в своё время. Выпускаются в нескольких вариантах расскраски PCB.
+ **ВНИМАНИЕ:** на стоковом UEFI/BIOS разгона нет, возможно позднее допилят его как было с 2011 сокетом в своё время. Выпускаются в нескольких вариантах расскраски PCB. [Гайд по разблокировке турбобуста](vk.com/@2485616-kitaiskaya-h99-plexhd-zx-99ev3)
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHdnoname.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHD_X99_up1.jpg?raw=true)
@@ -111,6 +111,13 @@
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-tf.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668531847240.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668529667151.jpg?raw=true)
+ 
+ 
+ **HUANANZHI X99-F**
+ Новая плата с чипсетом X99/C612 плата похожа на ту что выше но имеет все слоты DDR4. 
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/huananzhi-x99-f-io.jpg?raw=true)
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/huananzhi-x99-f.jpg?raw=true)
+ 
  
  **X99z_v102**
  
