@@ -15,7 +15,7 @@
 
 ## Оглавление:
 
-*Будет сделано позже.*
+*Будет сделано позже. Наверно, когда-нибудь да.* 
 
 
 # Материнские платы
@@ -54,6 +54,8 @@
 **SUPERMICRO:** Очень хорошие серверные платы, но для анлока турбобуста не рекомендуются из-за скудного питальника плат и его охлада. Под сборку сервера отлично подходят из-за того что не имеют проблем с инженерными образцами(ES)  v3/v4. 
 
 ## Китайплаты:
+
+### HUANANZHI:
  
  **HUANANZHI X99-AD3:**
  
@@ -61,12 +63,35 @@
 Осенью 2019 стали появляться версии платы с кожухом во весь левый край платы, с подсветкой.
 * На Модбиосе работает разблокировка турбобуста на все ядра, модбиос и оригинальный [тут](https://github.com/ThinkPadThink/Guide2011-3/blob/master/HuananX99-AD3_BIOS.zip)
 
- 
  *Примечание:* По неизвестным причинам фото материнкой платы блокируется блокировщиками рекламы. Фото можно просмотреть [тут](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99_AD3.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99ad3_up1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99ad3_up2.jpg)
 
+
+ **HUANANZHI X99-8M:** 
+ 
+ Плата с чипсетом X99 и DDR4 памятью. Существуют разные варианты разцветки. *Имхо: Безсмысленный огрызок с 2 каналами, не нужен.* Обзор от YouTube канала [Купи дёшево](https://www.youtube.com/watch?v=EbipSmxaeB4)
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M1.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M2.jpg?raw=true)
+ 
+ 
+  **HUANANZHI X99-TF aka G368J ver 1.1** 
+ Новая плата с чипсетом C612/X99. 4 слота DDR3 и 4 слота DDR4. Вместе память работать не будет. Плата достаточно добротна по дизайну и наполненности. Подробное описание ниже. Обзор от YouTube канала [Ремонтяш Лайв](https://www.youtube.com/watch?v=BERU3L_rOLo)
+ * [UEFI-BIOS](https://github.com/ThinkPadThink/Guide2011-3/raw/master/HuananzhiX99-TF_BIOS.7z) в некоторых случаях разблокировка TurboBoost на всех ядрах работает и на стоковом UEFI-BIOS
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-tf.jpg?raw=true)
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668531847240.jpg?raw=true)
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668529667151.jpg?raw=true)
+ 
+ 
+ **HUANANZHI X99-F**
+ Новая плата с чипсетом X99/C612 плата похожа на ту что выше но имеет все слоты DDR4. [На сайте HUANAZHI](http://www.huananzhi.com/html/1/184/185/427.html)
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/huananzhi-x99-f.jpg?raw=true)
+    ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/huananzhi-x99-f-io.jpg?raw=true)
+ 
+ ### Менее известные бренды:
+ 
  
  **Running X99 aka Vulcan X99 v1.2:** 
  
@@ -75,12 +100,6 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X991.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X992.jpg?raw=true)
  
- **HUANANZHI X99-8M:** 
- 
- Плата с чипсетом X99 и DDR4 памятью. Существуют разные варианты разцветки. *Имхо: Безсмысленный огрызок с 2 каналами, не нужен.* Обзор от YouTube канала [Купи дёшево](https://www.youtube.com/watch?v=EbipSmxaeB4)
- 
- ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M1.jpg?raw=true)
- ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M2.jpg?raw=true)
  
  **PlexHD X99 DDR4 aka ZX_99EV3_V1.21:** 
  
@@ -97,6 +116,13 @@
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15732751272620.jpg?raw=true)
 
+
+ **Panshi X99-D4**
+ 
+ Клон PlexHD X99.
+ 
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-D4.png?raw=true)
+ 
  
  **NONAME aka Jingsha X99 aka X99 v10Y:** 
  
@@ -104,19 +130,6 @@
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Jingsha_x99_1.jpg_.png?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Jingsha_x99_2.png?raw=true)
- 
- **HUANANZHI X99-TF aka G368J ver 1.1** 
- Новая плата с чипсетом C612/X99. 4 слота DDR3 и 4 слота DDR4. Вместе память работать не будет. Плата достаточно добротна по дизайну и наполненности. Подробное описание ниже. Обзор от YouTube канала [Ремонтяш Лайв](https://www.youtube.com/watch?v=BERU3L_rOLo)
- * [UEFI-BIOS](https://github.com/ThinkPadThink/Guide2011-3/raw/master/HuananzhiX99-TF_BIOS.7z) в некоторых случаях разблокировка TurboBoost на всех ядрах работает и на стоковом UEFI-BIOS
-  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-tf.jpg?raw=true)
-  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668531847240.jpg?raw=true)
-  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668529667151.jpg?raw=true)
- 
- 
- **HUANANZHI X99-F**
- Новая плата с чипсетом X99/C612 плата похожа на ту что выше но имеет все слоты DDR4. 
-  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/huananzhi-x99-f-io.jpg?raw=true)
-  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/huananzhi-x99-f.jpg?raw=true)
  
  
  **X99z_v102**
@@ -134,6 +147,7 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/noname_mylo.jpg?raw=true)
  
  По другим платам от китайцев пока ничего не известно.
+ 
  
  ## Платы от именитых производителей серверов/рабочих станций:
  
