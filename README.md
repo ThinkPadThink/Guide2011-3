@@ -132,12 +132,38 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Jingsha_x99_2.png?raw=true)
  
  
- **X99z_v102**
+ **X99z_v102 aka RUNNING X99M-D4**
  
  Новая MATX плата с неизвестным чипсетом, возможно с 4-каналом. Сеть гигабит, 6 SATA 2.0???? 
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99zv102_1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99zv102_2.jpg?raw=true)
+ 
+ 
+ **Xingyueye X99 Pro**
+ 
+ Новая плата из поднебесной. Память DDR4, Чипсет X99/C612, SATA 3.0 порты, сеть\звук неизвестны. 
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-pro.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-pro-1.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-pro-2.jpg?raw=true)
+ 
+ 
+ **War X99 Gaming-D3**
+ 
+ Ещё одна новика из поднебесной, память DDR3, остальное в описании. Похожа на копию PlexHD X99 DDR3. Чипсет C612. 
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/war-x99-d3-1.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/war-x99-d3-2.jpg?raw=true)
+ 
+ 
+ **SHUANGWEI X99M2+**
+ 
+ И ещё одна поднебесная новинка, вероятно плата результат "скрещивания ежа с ужом" т.е. платформа 2011-3 и чипсет от 1150 сокета, что было у китайцев распространено ранее на 2011 сокете.
+ 
+   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/SHUANGWEI%20X99M2+-1.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/SHUANGWEI%20X99M2+-2.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/SHUANGWEI%20X99M2+-3.jpg?raw=true)
  
  
  **HUANANZHI X99 NONAME:** 
