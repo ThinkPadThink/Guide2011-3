@@ -71,7 +71,7 @@
 
  **HUANANZHI X99-8M:** 
  
- Плата с чипсетом X99 и DDR4 памятью. Существуют разные варианты разцветки. *Имхо: Безсмысленный огрызок с 2 каналами, не нужен.* Обзор от YouTube канала [Купи дёшево](https://www.youtube.com/watch?v=EbipSmxaeB4) UEFI/BIOS с разблокировкой турбобуста можно [зять тут](https://xeon-e5450.ru/socket-2011-3/huananzhi-x99-8m/)
+ Плата с чипсетом X99 и DDR4 памятью. Существуют разные варианты разцветки. *Имхо: Безсмысленный огрызок с 2 каналами, не нужен.* Обзор от YouTube канала [Купи дёшево](https://www.youtube.com/watch?v=EbipSmxaeB4) UEFI/BIOS (с X99-TF) с разблокировкой турбобуста можно [Взять тут](https://xeon-e5450.ru/socket-2011-3/huananzhi-x99-8m/)
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-8M2.jpg?raw=true)
@@ -79,7 +79,7 @@
  
   **HUANANZHI X99-TF aka G368J ver 1.1** 
  Новая плата с чипсетом C612/X99. 4 слота DDR3 и 4 слота DDR4. Вместе память работать не будет. Плата достаточно добротна по дизайну и наполненности. Подробное описание ниже. Обзор от YouTube канала [Ремонтяш Лайв](https://www.youtube.com/watch?v=BERU3L_rOLo)
- * [UEFI-BIOS все варианты](https://github.com/ThinkPadThink/Guide2011-3/raw/master/HuananzhiX99-TF_BIOS.7z) в некоторых случаях разблокировка TurboBoost на всех ядрах работает и на стоковом UEFI-BIOS. **Внимание, новые версии плат умею в разгон процессора по множителю, E5 1650 v3 удалось разогнать до 4.9 ггц.** UEFI-BIOS взят с сайта Xeon-e5450.ru.
+ * [UEFI-BIOS все варианты](https://github.com/ThinkPadThink/Guide2011-3/raw/master/HuananzhiX99-TF_BIOS.7z) в некоторых случаях разблокировка TurboBoost на всех ядрах работает и на стоковом UEFI-BIOS. **Внимание, новые версии плат умею в разгон процессора по множителю, E5 1650 v3 удалось разогнать до 4.9 ггц.** UEFI-BIOS взят с сайта Xeon-e5450.ru. Информация по VRM материнской плате: [Читать  в вк](https://vk.com/@2485616-sistema-pitaniya-cpu-kitaiskih-2011-3-materinskih-plat)
  **Внимание, верхний m2 работает с 4 линиями PCI-E 3.0, нижний m2 с 2 линиями PCI-E 3.0. В мелкий m2 вставляется только Wi-FI модуль!**
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-tf.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668531847240.jpg?raw=true)
