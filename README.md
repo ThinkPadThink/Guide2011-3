@@ -87,7 +87,7 @@
  
  
  **HUANANZHI X99-F**
- Новая плата с чипсетом X99/C612 плата похожа на ту что выше но имеет все слоты DDR4. [На сайте HUANAZHI](http://www.huananzhi.com/html/1/184/185/427.html)
+ Новая плата с чипсетом X99/C612 плата похожа на ту что выше но имеет все слоты DDR4. [На сайте HUANAZHI](http://www.huananzhi.com/html/1/184/185/427.html). По характеристикам думаю всё тоже само что и с X99-TF
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/huananzhi-x99-f.jpg?raw=true)
     ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/huananzhi-x99-f-io.jpg?raw=true)
  
@@ -96,7 +96,7 @@
  
  **Running X99 aka Vulcan X99 v1.2:** 
  
- Плата с чипсетом X99/C612 и DDR4 памятью. Есть несколько вариантов, с радиатором и без. И разной разцветки. **По некоторым данных плата не работает с Xeon E5 V4** но это не точно.
+ Плата с чипсетом X99/C612 и DDR4 памятью. Есть несколько вариантов, с радиатором и без. И разной разцветки. **По некоторым данных плата не работает с Xeon E5 V4** но это не точно. Вроде как с производства снята.
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X991.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X992.jpg?raw=true)
@@ -105,7 +105,8 @@
  **PlexHD X99 DDR4 aka ZX_99EV3_V1.21:** 
  
  Плата с X99/C612 чипсетом. Звук: Realtek ALC662, Сеть REALTEK 8106E/8111. 
- **ВНИМАНИЕ:** на стоковом UEFI/BIOS разгона нет, возможно позднее допилят его как было с 2011 сокетом в своё время. Выпускаются в нескольких вариантах расскраски PCB. [Гайд по разблокировке турбобуста](vk.com/@2485616-kitaiskaya-h99-plexhd-zx-99ev3)
+ **ВНИМАНИЕ:** на стоковом UEFI/BIOS разгона нет, возможно позднее допилят его как было с 2011 сокетом в своё время. Выпускаются в нескольких вариантах расскраски PCB. [Гайд по разблокировке турбобуста](vk.com/@2485616-kitaiskaya-h99-plexhd-zx-99ev3) 
+ Можно прошить UEFI/BIOS от HUANANZHI X99-TF с разгоном и разблокировкой турбобуста. Но данное действие не рекомендуется делать из-за нестабильной работы платы. 
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHdnoname.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHD_X99_up1.jpg?raw=true)
@@ -133,7 +134,19 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Jingsha_x99_2.png?raw=true)
  
  
- **X99z_v102 aka RUNNING X99M-D4**
+ **Kllisre X99 D8 aka Jingsha X99:** 
+  
+  Новая плата теперь уже от Kllisre. Чипсет C612. Сеть и звук от Realtek. Верхний M2 под NVME SSD, нижний под Wifi+Bluetooth, 8 Sata 3.0 6Gb/s
+   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/KllisreX99_d8.png?raw=true)
+  
+  
+ **Kllisre X99 D4:** 
+ 
+ Новая плата, вторая от Kllisre. 2 канала DDR4, чипсет вероятнее всего от сокета 1150. Верхний M2 под NVME SSD, нижний под Wifi+Bluetooth. 4 Sata 3.0 6Gb/s. Сеть и звук от Realtek, звук вероятнее всего очень простой. 
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/KllisreX99_d4.png?raw=true)
+ 
+ 
+ **X99z_v102 aka RUNNING X99M-D4 aka Машинист X99**
  
  Новая MATX плата с неизвестным чипсетом, возможно с 4-каналом. Сеть гигабит, 6 SATA 2.0???? 
  
