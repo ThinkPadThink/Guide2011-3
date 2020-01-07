@@ -219,6 +219,10 @@
   Новая плата теперь уже от Kllisre. Чипсет C612. Сеть и звук от Realtek. Верхний M2 под NVME SSD, нижний под Wifi+Bluetooth, 8 Sata 3.0 6Gb/s
    ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/KllisreX99_d8.png?raw=true)
   
+  **Jingsha X99 DUAL**
+
+Новинка 2020 года, первая дуалсокетная 2011-3 плата от китайцев, возможно даже с IPMI.
+  [Видео](https://www.youtube.com/watch?v=2FY5LBbHUCQ&feature=youtu.be)
   
  **Kllisre X99 D4:** 
  
