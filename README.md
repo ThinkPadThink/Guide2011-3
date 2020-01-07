@@ -139,9 +139,9 @@
 | Выносные колодни(передние/дополнительные задние порты) | 1x звук, 1xUSB 3.0, 2xUSB 2.0,1x COM | Дополнительно отмечу наличие POST-кодера, Speaker кнопки включения и Reset |
 | Комплектация | Плата, 2 Sata кабеля, диск с драйверами, возможно кольцо с переходником под крепление AMD и винты, инструкция и гарантия  |  |
  
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-TF__1.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-tf.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668531847240.jpg?raw=true)
-  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15668529667151.jpg?raw=true)
  
  
  **HUANANZHI X99-F8**
@@ -168,7 +168,8 @@
 | Комплектация | Плата, 2 Sata кабеля, диск с драйверами, возможно кольцо с переходником под крепление AMD и винты, инструкция и гарантия  |  |
 
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/huananzhi-x99-f.jpg?raw=true)
-  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/huananzhi-x99-f-io.jpg?raw=true)
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-F8_2.jpg?raw=true)
+  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-F8_3.jpg)
  
  ### Менее известные бренды:
  
