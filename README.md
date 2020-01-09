@@ -172,29 +172,22 @@
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-F8_2.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-F8_3.jpg)
  
- ### Менее известные бренды:
+ ### PlexHD X99 и её клоны:
  
+ - В данной категории указана только одна плата но она имеет множество клонов, возможно не все варианты представлены. По характеристикам возможны различия, если они вам известны создайте "Вопрос - Issues" либо "Pull requests"
  
- **Running X99 aka Vulcan X99 v1.2:** 
+  **PlexHD X99 DDR4 aka ZX_99EV3_V1.21 aka Atermiter X99 aka Panshi X99-D4 aka PlexHD X99 DDR3 aka War X99 Gaming-D3:** 
  
- Плата с чипсетом X99/C612 и DDR4 памятью. Есть несколько вариантов, с радиатором и без. И разной разцветки. **По некоторым данных плата не работает с Xeon E5 V4** но это не точно. Вроде как с производства снята.
- 
- ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X991.jpg?raw=true)
- ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X992.jpg?raw=true)
- 
- 
- **PlexHD X99 DDR4 aka ZX_99EV3_V1.21 aka Atermiter X99:** 
- 
- | Характеристики | PlexHD X99 DDR4 aka ZX_99EV3_V1.21 aka Atermiter X99 | |
+| Характеристики | PlexHD X99 DDR4 aka ZX_99EV3_V1.21 aka Atermiter X99 aka Panshi X99-D4 | так же PlexHD X99 DDR3 aka War X99 Gaming-D3 |
 |---|---|---|
 | UEFI/BIOS | Классический AMI | [Гайд по разблокировке турбобуста](vk.com/@2485616-kitaiskaya-h99-plexhd-zx-99ev3) |
-| Примечание | Можно прошить UEFI/BIOS от HUANANZHI X99-TF с разгоном и разблокировкой турбобуста. Но данное действие не рекомендуется делать из-за нестабильной работы платы.  |  |
+| Примечание | Оригинальную плату PlexHD X99 DDR4 aka ZX_99EV3_V1.21 aka Atermiter X99 можно прошить UEFI/BIOS от HUANANZHI X99-TF с разгоном и разблокировкой турбобуста. Но данное действие не рекомендуется делать из-за нестабильной работы платы.  | Существует много клонов данной платы, некоторые из них имеют не DDR4, а DDR3  |
 | Форм-фактор и размеры | ATX 283x215 мм  |  |
-| Поддержка ЦПУ | Xeon E5 v3/Xeon E5 v4/i7: 5820k, 5930k, 5960x, 6800k, 6850k, 6900k, 6950x |  |
+| Поддержка ЦПУ | Xeon E5 v3/Xeon E5 v4/i7: 5820k, 5930k, 5960x, 6800k, 6850k, 6900k, 6950x | Платы с DDR3 поддерживают только эти CPU Xeon E5v3: 2629 v3, 2649 v3, 2669 v3, 2678 v3, 2686 v3, 2696 v3 |
 | VRM | 6 фаз | [Более подробное описание  в вк](https://vk.com/@2485616-sistema-pitaniya-cpu-kitaiskih-2011-3-materinskih-plat) |
 | Чипсет | C612 | |
-| Память | 4x DDR4 UDIMM/ECC/ECC REG/ | Т.Е Подходит как и серверная, так и обычная память, поддержка LRDIMM незивестна |
-| Частоты памяти | DDR4: 1866/2133/2400 |  |
+| Память | 4x DDR4/DDR3 UDIMM/ECC/ECC REG/ | Т.Е Подходит как и серверная, так и обычная память, поддержка LRDIMM незивестна |
+| Частоты памяти | DDR4: 1866/2133/2400 | DDR3: 1600/1866/2133 |
 | Максимальный поддерживаемы объём памяти | 128Gb | Скорее всего не так, зависит от типа памяти и объёма планок |
 | Канальность | 4 канала |  |
 | Подключение вентиляторов | 2x 4PIN |  |
@@ -210,21 +203,15 @@
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHdnoname.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHD_X99_up1.jpg?raw=true)
- 
- 
- **PlexHD X99 DDR3:**
- 
- Плата аналогична той же плате что и выше только с памятью DDR3.
- 
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15732751272620.jpg?raw=true)
-
-
- **Panshi X99-D4**
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-D4.png?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/war-x99-d3-1.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/war-x99-d3-2.jpg?raw=true)
  
- Клон PlexHD X99.
  
-  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-D4.png?raw=true)
  
+  ### Jingsha и Kllisre 
+  
  
  **NONAME aka Jingsha X99 aka X99 v10Y:** 
  
@@ -278,9 +265,21 @@
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/KllisreX99_d4.png?raw=true)
  
  
+ 
+ ### Менее известные бренды:
+ 
+
+ **Running X99 aka Vulcan X99 v1.2:** 
+ 
+ Плата с чипсетом X99/C612 и DDR4 памятью. Есть несколько вариантов, с радиатором и без. И разной разцветки. **По некоторым данных плата не работает с Xeon E5 V4** но это не точно. Вроде как с производства снята. Есть информация на Youtube что качество этой платы не самое хорошее, возможно стоит обходить её стороной.
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X991.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X992.jpg?raw=true)
+ 
+ 
  **X99z_v102 aka RUNNING X99M-D4 aka Машинист X99**
  
- Новая MATX плата с неизвестным чипсетом, возможно с 4-каналом. Сеть гигабит, 6 SATA 2.0???? 
+ Новая MATX плата с неизвестным чипсетом, возможно с 4-каналом. Сеть гигабит, 6 SATA 2.0???? Есть информация на Youtube что качество этой платы не самое хорошее, возможно стоит обходить её стороной.
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99zv102_1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99zv102_2.jpg?raw=true)
@@ -293,14 +292,6 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-pro.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-pro-1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/x99-pro-2.jpg?raw=true)
- 
- 
- **War X99 Gaming-D3**
- 
- Ещё одна новика из поднебесной, память DDR3, остальное в описании. Похожа на копию PlexHD X99 DDR3. Чипсет C612. 
- 
- ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/war-x99-d3-1.jpg?raw=true)
- ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/war-x99-d3-2.jpg?raw=true)
  
  
  **SHUANGWEI X99M2+**
