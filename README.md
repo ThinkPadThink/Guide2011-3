@@ -213,20 +213,38 @@
   ### Jingsha и Kllisre 
   
  
- **NONAME aka Jingsha X99 aka X99 v10Y:** 
+ **Jingsha X99 v10Y aka X99 v10Y и Kllisre X99 D8 aka Jingsha X99 AD12:** 
  
- Новая плата с X99/C612 чипсетом и **ВНИМАНИЕ DDR3 памятью. Работает данная плата только с определёнными процессорами E5 v3.** Звук: ALC898, Сеть Realtek. UEFI/BIOS можно [зять тут](https://xeon-e5450.ru/socket-2011-3/jingsha-x99-v1-0/)
+ | Характеристики | Kllisre X99 D8 aka Jingsha X99 aka AD12 v1.0 | Jingsha X99 aka X99 v10Y |
+|---|---|---|
+| UEFI/BIOS | Классический AMI | Модбиос для разблокировки турбобуста на все ядра для платы с DDR3 памятью [тут](https://xeon-e5450.ru/socket-2011-3/jingsha-x99-v1-0/) |
+| Примечание | Платы практически одинаковы, различаются только дизайном и типом памяти DDR3 или DDR4 |  |
+| Форм-фактор и размеры | ATX 283x215 мм  |  |
+| Поддержка ЦПУ | Плата с DDR4 поддерживает Xeon E5 v3/Xeon E5 v4/i7: 5820k, 5930k, 5960x, 6800k, 6850k, 6900k, 6950x | Плата с памятью DDR3 поддерживает только Xeon E5v3: 2629 v3, 2649 v3, 2669 v3, 2678 v3, 2686 v3, 2696 v3 |
+| Питальник | 6 фаз |  |
+| Чипсет | C612 | |
+| Память | 8x DDR4 либо DDR3 UDIMM/ECC/ECC REG/ | Т.Е Подходит как и серверная, так и обычная память, поддержка LRDIMM незивестна |
+| Частоты памяти | 2400/2133/1866 либо 1866/1600/1333 | В зависимости от типов памяти |
+| Максимальный поддерживаемы объём памяти | 64Gb/128 | Скорее всего не так, зависит от типа памяти и объёма планок |
+| Канальность | 4 канала |  |
+| Подключение вентиляторов | 3=2x 3PIN+1x 4PIN |  |
+| Сеть | Вероятно Realtek RTL8111G 1000/100/10 Mbit |  |
+| Звук | Вероятно Realtek ALC898/892 |  |
+| Sata | 8xSata 3.0(6Gb/S) из них 6(Какие-то) поддерживают Intel RAID 0/1/5/10 |  | 
+| M2 | 1 NVME PCI-E 3.0 x4 1 M2(WIFI) PCI-E  | Поддержка Sata M2 SSD неизвестна, поддерживаемые размеры 2230, 2242, 2260, 2280 Нижний M2 поддерживает только WIFI/WIFI+Bluetooth модули |
+| Питание | 1x 24PIN, 1x 8PIN |  |
+| Порты расширений | 3xPCI-E 3.0 x16(Красные), 2xPCI-E x1 3.0 | Возможно не все X1 имеют скорость 3.0, смотря куда они подключены, если CPU то 3.0, если Чипсет то 2.0  |
+| I/O порты(Задние) | 4xUSB 2.0 4xUSB 3.0 1x RJ45 3x7.1 Звук(Микрофон, Наушники/Колонки, Линейный вход, Optical, REAR(Задний), C.SUB(сабвуфер)) |  |
+| Выносные колодни(передние/дополнительные задние порты) | 1x звук, 1xUSB 3.0, 2xUSB 2.0 | Дополнительно отмечу наличие POST-кодера и Speaker |
+| Комплектация | Возможно Плата, 2 Sata кабеля, заглушка задней панели I/O, диск с драйверами, возможно кольцо с переходником под крепление AMD и винты, инструкция и гарантия  |  |
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Jingsha_x99_1.jpg_.png?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Jingsha_x99_2.png?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/KllisreX99_d8.png?raw=true)
  
  
- **Kllisre X99 D8 aka Jingsha X99:** 
-  
-  Новая плата теперь уже от Kllisre. Чипсет C612. Сеть и звук от Realtek. Верхний M2 под NVME SSD, нижний под Wifi+Bluetooth, 8 Sata 3.0 6Gb/s
-   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/KllisreX99_d8.png?raw=true)
-  
   **Jingsha X99 DUAL**
+
 
 Новинка 2020 года, первая дуалсокетная 2011-3 плата от китайцев, возможно даже с IPMI.
 
@@ -256,10 +274,11 @@
  
  [Видео](https://www.youtube.com/watch?v=2FY5LBbHUCQ&feature=youtu.be)
   
-  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/jingsha%20X99_DUAL.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/jingsha%20X99_DUAL.jpg?raw=true)
   
   
  **Kllisre X99 D4:** 
+ 
  
  Новая плата, вторая от Kllisre. 2 канала DDR4, чипсет вероятнее всего от сокета 1150. Верхний M2 под NVME SSD, нижний под Wifi+Bluetooth. 4 Sata 3.0 6Gb/s. Сеть и звук от Realtek, звук вероятнее всего очень простой. 
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/KllisreX99_d4.png?raw=true)
@@ -271,7 +290,7 @@
 
  **Running X99 aka Vulcan X99 v1.2:** 
  
- Плата с чипсетом X99/C612 и DDR4 памятью. Есть несколько вариантов, с радиатором и без. И разной разцветки. **По некоторым данных плата не работает с Xeon E5 V4** но это не точно. Вроде как с производства снята. Есть информация на Youtube что качество этой платы не самое хорошее, возможно стоит обходить её стороной.
+ Плата с чипсетом X99/C612 и DDR4 памятью. Есть несколько вариантов, с радиатором и без. И разной разцветки. **По некоторым данных плата не работает с Xeon E5 V4** но это не точно. Вроде как с производства снята. Обходите данную плату стороной, качество данной платы ужасное!
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X991.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/RUNING-X992.jpg?raw=true)
