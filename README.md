@@ -91,12 +91,12 @@
 | Характеристики | HUANANZHI X99-8M aka G362C Ver 1.1 |  |
 |---|---|---|
 | UEFI/BIOS | Классический AMI | UEFI/BIOS (с X99-TF) с разблокировкой турбобуста и поддержкой разгона процессоров с разблокированным множителем можно [Взять тут](https://xeon-e5450.ru/socket-2011-3/huananzhi-x99-8m/) |
-| Примечание | Описание на сайте [HUANAZHI](http://www.huananzhi.com/html/1/149/150/349.html), Не все процессоры будут работат с DDR3 памятью, DDR3 и DDR4 память вместе работать не будет,Обзор от YouTube канала [Купи дёшево](https://www.youtube.com/watch?v=EbipSmxaeB4) |  |
+| Примечание | Описание на сайте [HUANAZHI](http://www.huananzhi.com/html/1/149/150/349.html), Обзор от YouTube канала [Купи дёшево](https://www.youtube.com/watch?v=EbipSmxaeB4) |  |
 | Форм-фактор и размеры | ATX 283x215 мм  |  |
 | Поддержка ЦПУ | Xeon E5 v3/Xeon E5 v4/i7: 5820k, 5930k, 5960x, 6800k, 6850k, 6900k, 6950x |  |
 | VRM | 6 фаз |  |
 | Чипсет | неизвестен, вероятнее всего с сокета 1150 | Производителем указан как X99 |
-| Память | 2 слота DDR4 UDIMM/ECC/ECC REG/ | Т.Е Подходит как и серверная, так и обычная память, поддержка LRDIMM незивестна, двухканальный огрызок плата |
+| Память | 2 слота DDR4 UDIMM/ECC/ECC REG/ | Т.Е Подходит как и серверная, так и обычная память, поддержка LRDIMM неизвестна, двухканальный огрызок плата |
 | Частоты памяти | DDR4: 1866/2133/2400 |  |
 | Максимальный поддерживаемы объём памяти | 32Gb | Скорее всего не так, зависит от типа памяти и объёма планок |
 | Подключение вентиляторов | 3=3x 4PIN |  |
@@ -203,11 +203,11 @@
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHdnoname.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHD_X99_up1.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PlexHD_rishik_DDR4.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/15732751272620.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-D4.png?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/war-x99-d3-1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/war-x99-d3-2.jpg?raw=true)
- 
  
  
   ### Jingsha и Kllisre 
@@ -277,15 +277,73 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/jingsha%20X99_DUAL.jpg?raw=true)
   
   
- **Kllisre X99 D4:** 
+ **Kllisre/Jingsha X99 D4/AD12-B V1.0:** 
  
  
- Новая плата, вторая от Kllisre. 2 канала DDR4, чипсет вероятнее всего от сокета 1150. Верхний M2 под NVME SSD, нижний под Wifi+Bluetooth. 4 Sata 3.0 6Gb/s. Сеть и звук от Realtek, звук вероятнее всего очень простой. 
-  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/KllisreX99_d4.png?raw=true)
+  
+| Характеристики | Kllisre/Jingsha X99 D4/AD12-B V1.0 |  |
+|---|---|---|
+| UEFI/BIOS | Классический AMI |  |
+| Примечание | У Клизьмы SATA порты не так удобно расположены по сравнению с Jingsha |  |
+| Форм-фактор и размеры | mATX 283x215 мм  |  |
+| Поддержка ЦПУ | Xeon E5 v3/Xeon E5 v4/i7: 5820k, 5930k, 5960x, 6800k, 6850k, 6900k, 6950x |  |
+| VRM | 6 фаз |  |
+| Чипсет | неизвестен, вероятнее всего с сокета 1150 | Производителем указан как X99 |
+| Память | 2 слота DDR4 UDIMM/ECC/ECC REG/ | Т.Е Подходит как и серверная, так и обычная память, поддержка LRDIMM незивестна, плата двухканальный огрызок |
+| Частоты памяти | DDR4: 1866/2133/2400 |  |
+| Максимальный поддерживаемы объём памяти | 32Gb | Скорее всего не так, зависит от типа памяти и объёма планок |
+| Подключение вентиляторов | 2=2x 4PIN |  |
+| Сеть | Realtek RTL8111H 1000/100/10 Mbit |  |
+| Звук | Realtek ALC662 |  |
+| Sata | 4xSata 3.0(6Gb/S)  | неизвестно поддерживает ли плата Intel RAID 0/1/5/10 | 
+| M2 | 1 NVME PCI-E 3.0 x4 1 M2(WIFI) PCI-E  | Поддержка Sata M2 SSD неизвестна, поддерживаемые размеры 2230, 2242, 2260, 2280 Нижний M2 поддерживает только WIFI/WIFI+Bluetooth модули |
+| Питание | 1x 24PIN, 1x 8PIN |  |
+| Порты расширений | 1xPCI-E 3.0 x16(длинный), 1xPCI-E x4 3.0 | Возможно не все X16/X1 имеют скорость 3.0, смотря куда они подключены, если CPU то 3.0, если Чипсет то 2.0  |
+| I/O порты(Задние) | 4xUSB 2.0 4xUSB 3.0 1x RJ45 3x5.1 Звук(Микрофон, Наушники/Колонки, Линейный вход) |  |
+| Выносные колодни(передние/дополнительные задние порты) | 1x звук, 1xUSB 3.0, 2xUSB 2.0,1x COM | Дополнительно отмечу наличие Speaker |
+| Комплектация | Плата, 2 Sata кабеля, диск с драйверами, возможно кольцо с переходником под крепление AMD, винты крепление и термопаста, инструкция и гарантия  |  |
  
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/KllisreX99_d4.png?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/O.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/JingshaX99-D4-1.jpg?raw=true)
  
  
  ### Менее известные бренды:
+ 
+ 
+ **Pasn X99:** 
+ 
+| Характеристики | Pasn X99 |  |
+|---|---|---|
+| UEFI/BIOS | Классический AMI | У данной платы графический UEFI с дизайном как у UEFI плат MSI |
+| Примечание | Плата с графическим UEFI |  |
+| Форм-фактор и размеры | ATX 283x215 мм  |  |
+| Поддержка ЦПУ | Плата с DDR4 поддерживает Xeon E5 v3/Xeon E5 v4/i7: 5820k, 5930k, 5960x, 6800k, 6850k, 6900k, 6950x |  |
+| Питальник | Неизветсно |  |
+| Чипсет | C612 | |
+| Память | 8x DDR4 либо UDIMM/ECC/ECC REG/ | Т.Е Подходит как и серверная, так и обычная память, поддержка LRDIMM незивестна |
+| Частоты памяти | 2400/2133/1866 |  |
+| Максимальный поддерживаемы объём памяти | 128GB | Скорее всего не так, зависит от типа памяти и объёма планок |
+| Канальность | 4 канала |  |
+| Подключение вентиляторов | 3=3x 4PIN |  |
+| Сеть | Вероятно Realtek RTL8111G 1000/100/10 Mbit |  |
+| Звук | Вероятно Realtek ALC898/892 |  |
+| Sata | 8xSata 3.0(6Gb/S) из них 6(Какие-то) поддерживают Intel RAID 0/1/5/10 |  | 
+| M2/mSATA | M2 НЕТ! Есть только mSATA\mini PCI-E | mSATA возле SATA портов поддерживает только WIFI/WIFI+Bluetooth модули, M2 NMVE можно подключить через переходник на слот PCI-E |
+| Питание | 1x 24PIN, 1x 8PIN |  |
+| Порты расширений | 3xPCI-E 3.0 x16(Большие), 2xPCI-E x1 3.0 (мелкие) | Возможно не все X1/X16 имеют скорость 3.0, смотря куда они подключены, если CPU то 3.0, если Чипсет то 2.0  |
+| I/O порты(Задние) | 2xPS/2 4xUSB 2.0 4xUSB 3.0 1x RJ45 6x7.1 Звук(Микрофон, Наушники/Колонки, Линейный вход, Optical, REAR(Задний), C.SUB(сабвуфер)) |  |
+| Выносные колодни(передние/дополнительные задние порты) | 1x звук, 1xUSB 3.0, 2xUSB 2.0 | Дополнительно отмечу наличие POST-кодера и Speaker |
+| Комплектация | Неизвестно  |  |
+
+
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PasnX99_1.jpg?raw=true)
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PasnX99_2.jpg?raw=true)
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PasnX99_3.jpg?raw=true)
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PasnX99_4.jpg?raw=true)
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PasnX99_5.jpg?raw=true)
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/PasnX99_6.jpg?raw=true)
  
 
  **Running X99 aka Vulcan X99 v1.2:** 
