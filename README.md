@@ -15,14 +15,38 @@
 
 ## Оглавление:
 - [Материнские платы](https://github.com/ThinkPadThink/Guide2011-3#Материнские-платы)
-- [Брендовые Материнские платы](https://github.com/ThinkPadThink/Guide2011-3#Брендовые-десктопные-платы)
+- [Брендовые десктопные платы](https://github.com/ThinkPadThink/Guide2011-3#Брендовые-десктопные-платы)
+- [Брендовые серверные платы](https://github.com/ThinkPadThink/Guide2011-3#Брендовые-серверные-платы)
+- [Китайплаты](https://github.com/ThinkPadThink/Guide2011-3#Китайплаты)
+- [HUANANZHI](https://github.com/ThinkPadThink/Guide2011-3#HUANANZHI)
+- [PlexHD X99 и её клоны](https://github.com/ThinkPadThink/Guide2011-3#PlexHD-X99-и-её-клоны)
+- [Jingsha и Kllisre](https://github.com/ThinkPadThink/Guide2011-3#Jingsha-и-Kllisre)
+- [Менее известные бренды](https://github.com/ThinkPadThink/Guide2011-3#Менее-известные-бренды)
+- [Платы от именитых производителей сервероврабочих станций](https://github.com/ThinkPadThink/Guide2011-3#Платы-от-именитых-производителей-сервероврабочих-станций)
+- [Оперативная память](https://github.com/ThinkPadThink/Guide2011-3#Оперативная-память)
+- [Процессоры](https://github.com/ThinkPadThink/Guide2011-3#Процессоры)
+- [Охлаждение](https://github.com/ThinkPadThink/Guide2011-3#Охлаждение)
+- [Покупка](https://github.com/ThinkPadThink/Guide2011-3#Покупка)
+- [Оптимальный выбор](https://github.com/ThinkPadThink/Guide2011-3#Оптимальный-выбор)
+- [Производительнось](https://github.com/ThinkPadThink/Guide2011-3#Производительнось)
+- [Xeon E5 2696v3 без разблокировки TurboBoost на все ядра](https://github.com/ThinkPadThink/Guide2011-3#Xeon-E5-2696v3-без-разблокировки-TurboBoost-на-все-ядра)
+- [Некоторые фишки которые сверху не влезут](https://github.com/ThinkPadThink/Guide2011-3#Некоторые-фишки-которые-сверху-не-влезут)
+- [Как выглядят Xeon Haswell-E/EP и Broadwell-E/EP](https://github.com/ThinkPadThink/Guide2011-3#Как-выглядят-Xeon-Haswell-EEP-и-Broadwell-EEP)
+- [Конфигурация ядер Haswell-EP и Broadwell-EP](https://github.com/ThinkPadThink/Guide2011-3#Конфигурация-ядер-Haswell-EP-и-Broadwell-EP)
+- [Как выглядят Xeon Haswell-E/EP и Broadwell-E/EP](https://github.com/ThinkPadThink/Guide2011-3#Как-выглядят-Xeon-Haswell-EEP-и-Broadwell-EEP)
+- [Про ASUS OC Socket LGA2011-3](https://github.com/ThinkPadThink/Guide2011-3#Про-ASUS-OC-Socket-LGA2011-3)
+- [Сравнение родных чипсетов для сокета 2011-3](https://github.com/ThinkPadThink/Guide2011-3#Сравнение-родных-чипсетов-для-сокета-2011-3)
+- [Код для IPMI на материнских плат SuperMicro](https://github.com/ThinkPadThink/Guide2011-3#Код-для-IPMI-на-материнских-плат-SuperMicro)
+- [РАЗБЛОКИРОВКА ТУРБОБУСТА ДЛЯ XEON E5 V3](https://github.com/ThinkPadThink/Guide2011-3#РАЗБЛОКИРОВКА-ТУРБОБУСТА-ДЛЯ-XEON-E5-V3)
+- [Разгон процессоров E5 16XX v3](https://github.com/ThinkPadThink/Guide2011-3#Разгон-процессоров-E5-16XX-v3)
+- [Ссылки](https://github.com/ThinkPadThink/Guide2011-3#Ссылки)
 
-
-# Материнские платы
+Ссылки
+# Материнские платы:
 
 Для этого сокета родными являются только два чипсета под кодовым именем Wellsburg это Десктопный HEDT X99 и серверный C612. 
 
-## Брендовые десктопные платы
+## Брендовые десктопные платы:
 **ASUS:** Одни из лучших материнских плат для этого сокета. Отличный питальник даже на дешёвых платах. Съёменая флешка BIOS и возможность прошить BIOS при выключенном пк на платах подороже [ASUS USB BIOS Flashback](https://www.asus.com/ru/support/FAQ/114133/) . Наличие OC сокета  с доп питанием позоляющего лучше гнать цпу. 
 
 **Из минусов:** 
@@ -39,7 +63,7 @@
 
 **SUPERMICRO-SUPERO:** Ничего не известно в СНГ фактически не встречаются, ну разве что пару раз были в Московском регарде. Продавались под именем **SUPERO** 
 
-## Брендовые серверные платы
+## Брендовые серверные платы:
 
 **ASUS:** Не самое хорошее качество плат. Есть проблемы с BIOS и с качеством плат, но и при этом есть 2 платы которые лучше всего подходят для разблокировки турбобуста на 2 ЦПУ(Дуалсокетные): ASUS Z10PE-D16 WS/ASUS Z10PE-D8 WS. Есть проблемы с работой E5 V4 ES ~~но их можно запустить в отличие от десктопных плат.~~
 
