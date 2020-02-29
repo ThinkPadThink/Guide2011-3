@@ -417,6 +417,70 @@
  
  Это HP/HPE, Dell, Lenovo/IBM, Cisco, Fujitsu и подобные. У этих плат 100% проприетраные фронт панели, подключение вентиляторов, блока питания. Возможен вайтлист на оперативную память и накопители, велика вероятность проприетарного форм-фактора плат и крепления охлаждения цпу. Да и разблокировки турбобуста на этих платах маловероятно что получится сделать из-за другого UEFI/BIOS.
  
+ 
+ <details>
+<summary> <b> [DELL Precision T5810/T7810] </b> </summary>
+  
+Это две материнских платы от рабочих станций DELL. Понятное дело, платы как видно на фото проприетароного формфактора. Но некоторые смогли их приспособить для обычного использования. Подробный колхоз под таблицей
+
+| Характеристики |  |  |
+|---|---|---|
+| UEFI/BIOS |  |  |
+| Примечание |  |  |
+| Форм-фактор и размеры | Проприетарный |  |
+| Поддержка ЦПУ | Xeon E5 v3/Xeon E5 v4 | Про поддержку ES и i7 ничего не знаю |
+| VRM | 6 фаз |  |
+| Чипсет | неизвестен, вероятнее всего с сокета 1150 | Производителем указан как X99 |
+| Память | 4/8 слота/ов DDR4 ECC/ECC REG/ | На свежих UEFI есть поддержка обычной UDIMM DDR4 но список ограничен |
+| Частоты памяти | DDR4: 1866/2133/2400 | Доподлинно неизвестгл |
+| Максимальный поддерживаемы объём памяти |  | Скорее всего не так, зависит от типа памяти и объёма планок |
+| Подключение вентиляторов | 2=2x 4PIN |  |
+| Сеть | Intel i210 |  |
+| Звук | Realtek ALC3861 | Какой-то чистый OEM под DELL |
+| Sata | 6xSata 3.0(6Gb/S)  | неизвестно поддерживает ли плата Intel RAID 0/1/5/10 | 
+| M2 | НЕТ!  |  |
+| Питание | 1x 24PIN, 2x 10PIN |  |
+| Порты расширений | 3xPCI-E 3.0 x16, 1xPCI-E x4 3.0 1xPCI | Подробная разводка ниже |
+| I/O порты(Задние) | 2xUSB 2.0 4xUSB 3.0 1x RJ45 2x5.1 Звук(Микрофон/Линейный вход, Наушники/Колонки) |  |
+| Выносные колодни(передние/дополнительные задние порты) | 1x звук, 1xUSB 3.0, 2xUSB 2.0,1x COM | Подробно ниже |
+| Комплектация | Плата, 2 Sata кабеля, диск с драйверами, возможно кольцо с переходником под крепление AMD, винты крепление и термопаста, инструкция и гарантия  |  |
+ 
+ T7810:
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/T7810_1.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/DellT7810_specs.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/T7810_Specs.jpg?raw=true)
+ 
+ T5810:
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Dell_t5810-io.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Dell_T5810.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/DELL_T5810_spec.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Dell_t5810_spec2.jpg?raw=true)
+ 
+Колхозинг:
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/dellPower.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/dellFan.jpg?raw=true)
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/dellPower.jpg?raw=true)
+ 
+ Распиновка FRONT PANEL разъема + питания в standby режиме T7810
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Dell_t5810-front.jpg?raw=true)
+ 
+ Разбор схемы FRONT PANEL без участка USB T7810
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/7810_front_panel_schema_800.jpg?raw=true)
+ 
+ Исправление ошибки FRONT PANEL I/O для T7810:
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/7810_front_panel_eroor_fix_800.jpg?raw=true)
+ 
+</details>
+ 
+ 
+ 
+ 
  **Hewlett Packard Enterprise/HP/HPE**
  
  Отдельно отмечу пердолинг с платой HP без прочего обвеса, возможно для кого-то это пригодится [Украинский овеклокерс](https://forum.overclockers.ua/viewtopic.php?f=3&t=218885)
