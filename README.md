@@ -81,6 +81,9 @@
 
 ### HUANANZHI:
  
+<details>
+<summary> <b> [Список плат HUANANZHI] </b> </summary>
+ 
  **HUANANZHI X99-AD3:**
  
 | Характеристики | HUANANZHI X99-AD3 | |
@@ -196,8 +199,13 @@
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-F8_2.jpg?raw=true)
   ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-F8_3.jpg)
  
+</details>
+ 
  ### PlexHD X99 и её клоны:
  
+<details>
+<summary> <b> [PlexHD и все её варианты и дизайны] </b> </summary>
+  
  - В данной категории указана только одна плата но она имеет множество клонов, возможно не все варианты представлены. По характеристикам возможны различия, если они вам известны создайте "Вопрос - Issues" либо "Pull requests"
  
   **PlexHD X99 DDR4 aka ZX_99EV3_V1.21 aka Atermiter X99 aka Panshi X99-D4 aka PlexHD X99 DDR3 aka War X99 Gaming-D3:** 
@@ -232,10 +240,13 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/X99-D4.png?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/war-x99-d3-1.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/war-x99-d3-2.jpg?raw=true)
+ </details>
  
  
   ### Jingsha и Kllisre 
   
+<details>
+<summary> <b> [Все модели Jingsha и Kllisre] </b> </summary>
  
  **Jingsha X99 v10Y aka X99 v10Y и Kllisre X99 D8 aka Jingsha X99 AD12:** 
  
@@ -332,9 +343,12 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/O.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/JingshaX99-D4-1.jpg?raw=true)
  
+</details>
  
  ### Менее известные бренды:
  
+<details>
+<summary> <b> [Все модели ноунейм платы] </b> </summary>
  
  **Pasn X99:** 
  
@@ -409,6 +423,8 @@
  Пока ничего не известно. Просто мыльная плата. Возможно не существует в природе. 
  
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/noname_mylo.jpg?raw=true)
+ 
+ </details>
  
  По другим платам от китайцев пока ничего не известно.
  
