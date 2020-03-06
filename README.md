@@ -451,7 +451,7 @@
 | Звук | Realtek ALC3861 | Какой-то чистый OEM под DELL |
 | Sata | 6xSata 3.0(6Gb/S)  | неизвестно поддерживает ли плата Intel RAID 0/1/5/10 | 
 | M2 | НЕТ!  |  |
-| Питание | 1x 24PIN, 2x 10PIN |  |
+| Питание | 1x 24PIN, 2x 10PIN | Колхоз переходника ниже |
 | Порты расширений | 3xPCI-E 3.0 x16, 1xPCI-E x4 3.0 1xPCI | Подробная разводка ниже |
 | I/O порты(Задние) | 2xUSB 2.0 4xUSB 3.0 1x RJ45 2x5.1 Звук(Микрофон/Линейный вход, Наушники/Колонки) |  |
 | Выносные колодни(передние/дополнительные задние порты) | 1x звук, 1xUSB 3.0, 2xUSB 2.0,1x COM | Подробно ниже |
@@ -475,6 +475,8 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/dellPower.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/dellFan.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/dellPower.jpg?raw=true)
+ 
+ 10 pin CPU: Те 5 контактов которые ближе к сокету и защёлке разъёма видимо 12в, а те 5 что ближе к БП GDN
  
  Распиновка FRONT PANEL разъема + питания в standby режиме T7810
  
