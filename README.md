@@ -422,12 +422,22 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/O.jpg?raw=true)
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/JingshaX99-D4-1.jpg?raw=true)
  
+  **Kllisre X99 X99Z-V500:** 
+
+Новая плата от Kllisre модель X99Z-V500 (USB 3.0 / SATA3 / PCI-E NVME M.2 SSD / ECC REG RAM DDR3 and DDR4) с ценой около 70$. Самое интересное что плата умеет работать как с  DDR3 так и DDR4 памятью, но к сожалению на каждый стандарт памяти только по два канала. Визуально плата очень схожа с уже известной бюджетной материнкой MACHINIST X99Z V102. За информацию об этой плате спасибо Youtube каналу Технопланета и анону из ЗионоТреда. 
+
+*Нормальную таблицу сделаю позже.*
+
+![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/Kllisre%20X99Z-V500.png?raw=true)
+ 
 </details>
  
  ### Менее известные бренды:
  
 <details>
 <summary> <b> [Все модели ноунейм платы] </b> </summary>
+ 
+ *В данном разделе находятся все совсем ноунейм мат. платы. Возможно позже сделаю таблицы как у более брендовых плат. Если у кого-то есть желание это сделать самим, кидайте пулл реквест.*
  
  **Pasn X99:** 
  
@@ -497,11 +507,15 @@
  ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/SHUANGWEI%20X99M2+-3.jpg?raw=true)
  
  
- **HUANANZHI X99 NONAME:** 
  
- Пока ничего не известно. Просто мыльная плата. Возможно не существует в природе. 
+ **MB X99 DDR3:** 
  
- ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/noname_mylo.jpg?raw=true)
+MB X99 (USB 3.0 / SATA3 / PCI-E NVME M.2 SSD / ECC REG RAM DDR3 2 Channel). Здесь за 62,5$ вы получаете двухканальную плату со слотами DDR3. На данный момент это самые доступная плата с памятью DDR3! 
+ 
+ ![](https://github.com/ThinkPadThink/Guide2011-3/blob/master/MB%20X99%20DDR3.png?raw=true)
+ 
+  За информацию об этой плате спасибо Youtube каналу Технопланета и анону из ЗионоТреда. 
+
  
  </details>
  
