@@ -996,12 +996,15 @@ SuperMicro не исключение. [Но это можно обойти](http
 - https://greentechreviews.ru/2017/03/14/instrukciya-po-uvelicheniyu-taktovoj-chastoty-v-boost-dlya-processorov-intel-xeon-e5-v3/
 - https://goo.gl/CHSBKV
 - [xeon-e5450.ru](https://xeon-e5450.ru/socket-2011-3/e5-2600-v3/hak-turbobusta/)
-
+- [Как делать анлок в Linux через загрузчик rEFInd, подходит и к Хакинтошному Clover, overclockers.ru](https://forums.overclockers.ru/viewtopic.php?p=16849474#p16849474)
+-[Раздел Анлок на оверах, overclockers.ru](https://forums.overclockers.ru/viewtopic.php?f=1&t=602922)
 **Предупреждение:** У многоядерных цпу либо у цпу с маленьким лимитом TDP полную разблокировку осуществить не получится из-за того что будет упор в теплопакет ЦПУ. Например у моего 2696v3 лимит будет 3.3-3.4 GHz
 
 Полный гайд со всем софтом можно найти в архиве по ссылке из этого [поста](https://forums.anandtech.com/threads/what-controls-turbo-core-in-xeons.2496647/page-10#post-38755809). Так же, для того, чтобы обойти ошибку "Error in Replacing File" при замене микрокодов биоса с помощью UBU - необходимо ознакомиться с этим [постом](http://www.win-raid.com/t18f16-Guide-Manual-AMI-UEFI-BIOS-Modding-4.html#msg21755)
 
 Можете так же обращаться в VK в группу [TheSellHard](https://vk.com/thesellhard), там народ может помочь с биосом, либо сразу найдите биос под свою мамку в [этой теме](https://vk.com/topic-70826500_34866008)
+
+
 
 # Разгон процессоров E5 16XX v3:
 
