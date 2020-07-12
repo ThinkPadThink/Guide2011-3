@@ -76,7 +76,7 @@
 
 ## Китайплаты:
 
-Общее: [Информация по VRM плат доступна тут: ]https://docs.google.com/spreadsheets/d/1zwk7iwtQydcXgnjLKQ7F3m99WTI9sN8VAzV7vF22J1Y/edit#gid=1495349665
+Общее: [Информация по VRM плат доступна тут: ](https://docs.google.com/spreadsheets/d/1zwk7iwtQydcXgnjLKQ7F3m99WTI9sN8VAzV7vF22J1Y/edit#gid=1495349665)
 Позже будет добавлено в основоной гайд
 
 
